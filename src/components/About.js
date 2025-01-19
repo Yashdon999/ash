@@ -56,8 +56,8 @@ const About = () => {
         image: "https://avatars.githubusercontent.com/u/72117025?v=4",
       },
       {
-        login: "Yashdon999",
-        html_url: "https://github.com/yashdon999",
+        login: "y4sssh ",
+        html_url: "https://github.com/y4sssh ",
         image: "https://avatars.githubusercontent.com/u/104668751?v=4",
       },
       
@@ -67,7 +67,7 @@ const About = () => {
 
   useEffect(() => {
     fetch(
-      "https://api.github.com/repos/Yashdon999/Resume-Generator/contributors"
+      "https://api.github.com/repos/y4sssh /Resume-Generator/contributors"
     )
       .then((response) => response.json())
       .then((data) => {

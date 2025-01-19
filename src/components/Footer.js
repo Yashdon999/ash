@@ -6,7 +6,7 @@ const teamMembers = [
     { name: "Harsh Baraliya", github: "https://github.com/MrCracker-OP" },
     { name: "Khizar Shah", github: "https://github.com/Khizarshah01" },
     { name: "Shashwat Agrawal", github: "https://github.com/ShashwatAgrawal20" },
-    { name: "Yash Vyavahare", github: "https://github.com/Yashdon999" },
+    { name: "Yash Vyavahare", github: "https://github.com/y4sssh " },
     { name: "Om Ingle", github: "https://github.com/mr-pros" },
 ];
 
@@ -105,7 +105,7 @@ const Footer = () => {
                         <a
                             className="btn btn-primary btn-floating m-1 border-0 rounded-circle"
                             style={{ backgroundColor: "#333333", padding: "0.5rem 0.85rem" }}
-                            href="https://github.com/Yashdon999/Resume-Generator"
+                            href="https://github.com/y4sssh /Resume-Generator"
                             role="button"
                         ><i className="fa fa-github"></i></a>
 

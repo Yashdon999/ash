@@ -1,5 +1,5 @@
 <h2 align="center"><b>⭐ Star our repository and grow our community</b></h2>
-<h2 align="center"><b>Owner: <a href="https://github.com/Yashdon999">Maku Gang 🇮🇳</a></b></h2>
+<h2 align="center"><b>Owner: <a href="https://github.com/y4sssh ">Maku Gang 🇮🇳</a></b></h2>
 <br>
 <p align="center"><img src="https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto/v1625166167/1625166166.jpg"></a></p> 
 </p>
@@ -8,7 +8,7 @@
 <br>
 <br>
 
-[![Private Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Yashdon999/Resume-Genrator)
+[![Private Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/y4sssh /Resume-Genrator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -41,7 +41,7 @@ To use this project locally, follow these steps:
 
 1. Clone the repository:
 
-`git clone https://github.com/Yashdon999/Resume-Genrator.git`
+`git clone https://github.com/y4sssh /Resume-Genrator.git`
 
 2. Go to the project directory:
 
@@ -69,7 +69,7 @@ https://resume-generator-xi.vercel.app/
 
 # Credits
 
-- [Yash Vyavahare](https://github.com/Yashdon999)
+- [Yash Vyavahare](https://github.com/y4sssh )
 - [Khizar Shah](https://github.com/Khizarshah01)
 - [Om Ingle](https://github.com/omingle-og)
 - [Harsh Baraliya](https://github.com/MrCracker-OP)

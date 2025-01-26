@@ -7,7 +7,7 @@ const teamMembers = [
     { name: "Khizar Shah", github: "https://github.com/Khizarshah01" },
     { name: "Shashwat Agrawal", github: "https://github.com/ShashwatAgrawal20" },
     { name: "Yash Vyavahare", github: "https://github.com/y4sssh " },
-    { name: "Om Ingle", github: "https://github.com/mr-pros" },
+    { name: "Om Ingle", github: "https://github.com/omingle-og" },
 ];
 
 const Footer = () => {

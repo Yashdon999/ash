@@ -5,9 +5,10 @@ import { Link } from "react-router-dom";
 const teamMembers = [
     { name: "Harsh Baraliya", github: "https://github.com/MrCracker-OP" },
     { name: "Khizar Shah", github: "https://github.com/Khizarshah01" },
+    { name: "Om Ingle", github: "https://github.com/omingle-og" },
     { name: "Shashwat Agrawal", github: "https://github.com/ShashwatAgrawal20" },
     { name: "Yash Vyavahare", github: "https://github.com/y4sssh " },
-    { name: "Om Ingle", github: "https://github.com/omingle-og" },
+    
 ];
 
 const Footer = () => {
